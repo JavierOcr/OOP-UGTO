@@ -1,5 +1,5 @@
 
-//"Mounstro" Describe una versión simplificada de; Monstruo/creatura del TCG Yu-gi-oh.
+//"Mounstro" Describe una versión simplificada de; Monstruo/criatura del TCG Yu-gi-oh.
 //Desarrollado por los alumnos del grupo B de la clase de Programación Orientada a Objetos
 Mounstro magoObscuro;
 int numero = 1; 
